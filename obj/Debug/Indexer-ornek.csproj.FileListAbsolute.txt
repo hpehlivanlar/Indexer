@@ -1,0 +1,7 @@
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\Indexer-ornek\bin\Debug\Indexer-ornek.exe.config
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\Indexer-ornek\bin\Debug\Indexer-ornek.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\Indexer-ornek\bin\Debug\Indexer-ornek.pdb
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\Indexer-ornek\obj\Debug\Indexer-ornek.csprojAssemblyReference.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\Indexer-ornek\obj\Debug\Indexer-ornek.csproj.CoreCompileInputs.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\Indexer-ornek\obj\Debug\Indexer-ornek.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\Indexer-ornek\obj\Debug\Indexer-ornek.pdb
